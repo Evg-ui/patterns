@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/patterns.iml" filepath="$PROJECT_DIR$/patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patterns_adapter/patterns_adapter.iml" filepath="$PROJECT_DIR$/patterns_adapter/patterns_adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patterns_factory/patterns_factory.iml" filepath="$PROJECT_DIR$/patterns_factory/patterns_factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patterns_proxy/patterns_proxy.iml" filepath="$PROJECT_DIR$/patterns_proxy/patterns_proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patterns_singleton/patterns_singleton.iml" filepath="$PROJECT_DIR$/patterns_singleton/patterns_singleton.iml" />
+    </modules>
+  </component>
+</project>
