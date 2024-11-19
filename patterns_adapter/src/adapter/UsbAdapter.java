@@ -7,6 +7,7 @@ public class UsbAdapter implements ICard {
     private final UsbCable usbCable;
 
     public UsbAdapter(UsbCable usbCable) {
+
         this.usbCable = usbCable;
     }
 

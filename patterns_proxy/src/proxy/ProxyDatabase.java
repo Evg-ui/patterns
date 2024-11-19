@@ -16,7 +16,6 @@ public class ProxyDatabase implements IDatabase {
 
     @Override
     public void connect(){
-      //  System.out.println("Подключение к БД:  " + dBases + "...");
         // Проверяем, загружено ли реальное подключение
         if (dBases == null) {
             String fullUrl = host + ":" + port + "/" + dbName;

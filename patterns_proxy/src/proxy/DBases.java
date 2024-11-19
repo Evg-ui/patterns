@@ -8,7 +8,6 @@ public class DBases implements IDatabase {
     // конструктор: экземпляру имя
     public DBases(String dbName) {
         this.dbName = dbName;
-       // connect();
     }
     // информационное сообщение
     public void info(){

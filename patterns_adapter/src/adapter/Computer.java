@@ -6,7 +6,6 @@ public class Computer {
     public void read(ICard iCard)
     {
         iCard.set();
-        //System.out.println("Данные с карты прочитаны!");
     }
 // информационное сообщение
     public void readFinish()
